@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaston Ruggy
 - 👀 I’m interested in doing backend projects
-- 🌱 I’m currently learning Spring Booot and React JS
+- 🌱 I’m currently learning SpringBooot, Flutter and React JS
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me 0626832446 / jastonruggy@icloud.com / https://jastonruggy.greenlightautomotive.tech
 
