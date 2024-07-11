@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRuggy&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRuggy&layout=pie&theme=dark)](https://github.com/JRuggy/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JRuggy)](https://github.com/JRuggy/github-readme-stats)
