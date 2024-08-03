@@ -22,7 +22,5 @@ You can click the Preview link to take a look at your changes.
 - #KNOWLEDGE
 - Node JS 💻 - PHP 🐘 - REACT 💮
 </pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 </div>
