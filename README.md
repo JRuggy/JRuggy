@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JRuggy)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRuggy&layout=pie&theme=dark)](https://github.com/JRuggy/github-readme-stats)
 
 
